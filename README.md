@@ -1,4 +1,4 @@
-# Horta inteligente
+# Horta Inteligente
 Projeto horta
 teste
 
